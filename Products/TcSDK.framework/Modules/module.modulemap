@@ -1,0 +1,11 @@
+framework module TcSDK {
+  umbrella header "TcSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module TcSDK.Swift {
+    header "TcSDK-Swift.h"
+    requires objc
+}
