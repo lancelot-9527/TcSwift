@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TcSwift"
-  spec.version      = "1.0.0"
+  spec.version      = "2.0.0"
   spec.summary      = "A Swift Extension SDK."
 
   # This description is used to generate tags and improve search results.
